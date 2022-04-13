@@ -1,0 +1,4 @@
+N N N
+E X N
+N N E
+X X X
